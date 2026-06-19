@@ -1,0 +1,6 @@
+{
+  "name": "Aeivo Carousel Maker",
+  "description": "Brand-specific interactive carousel engine for Sankalp AEI / Aeivo featuring custom vector character variations, smart slide layouts, and AI-powered educational content optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
